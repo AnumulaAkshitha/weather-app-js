@@ -5,6 +5,10 @@ Real-time weather application using OpenWeather REST API.
 ## Live Demo
 https://anumulaakshitha.github.io/weather-app-js/
 
+## 🎯 Project Purpose
+Personal project to practice API integration, async/await, and responsive UI design.
+Built in April 2026 while learning web development fundamentals.
+
 ## Features
 - Search weather by city name
 - Display temperature, humidity, wind speed, weather description
