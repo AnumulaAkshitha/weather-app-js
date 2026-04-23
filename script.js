@@ -1,6 +1,7 @@
 // NOTE: API key exposed for demo purposes only. 
 // In production, store in environment variables or backend proxy.
-const API_KEY = 'your_key_here';
+const API_KEY = 'your_actual_key_here';  ← Only ONE of these
+const searchBtn = document.getElementById('search-btn');
 const API_KEY = 'e91ca9d2d3f35f376fa68cf9f9d4e138'; 
 const searchBtn = document.getElementById('searchBtn');
 const cityInput = document.getElementById('cityInput');
